@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import YTSearch fromm 'youtube-api-search';
+import YTSearch from 'youtube-api-search';
 
 import SearchBar from './components/search_bar';
 
